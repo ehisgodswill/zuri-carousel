@@ -12,7 +12,7 @@
   width: 100%;
   overflow: auto;
   overflow: hidden;
-  transition: 1s ease;
+  /* transition: 1s ease; */
 }
 .carouselitem{
   list-style: none;
